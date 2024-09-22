@@ -6,8 +6,8 @@ This repository contains the PDF versions of the abstract for the professional i
 
 ## Files
 
-- `abstract_english.pdf` – The abstract in **English**.
-- `abstract_french.pdf` – The abstract in **French**.
+- `Ecobank_internship_En.pdf` – The abstract in **English**.
+- `Ecobank_internship_Fr.pdf` – The abstract in **French**.
 
 ## How to Use
 
@@ -23,8 +23,8 @@ Ce répertoire contient les versions PDF du résumé de mon stage professionnel 
 
 ## Fichiers
 
-- `abstract_english.pdf` – Le résumé en **anglais**.
-- `abstract_french.pdf` – Le résumé en **français**.
+- `Ecobank_internship_En.pdf` – Le résumé en **anglais**.
+- `Ecobank_internship_Fr.pdf` – Le résumé en **français**.
 
 ## Comment Utiliser
 
